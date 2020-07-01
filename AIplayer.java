@@ -6,7 +6,7 @@ import java.util.Random;
 /**
  * // CLASS: AIplayer
  * //
- * // Author: YYelizaveta Yashin, 7874435
+ * // Author: YYelizaveta Yashin
  * //
  * // REMARKS: This class implements Player interface. It will process the AI player and calculate
  * //          where the AI should play.
