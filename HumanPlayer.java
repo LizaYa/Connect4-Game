@@ -1,7 +1,7 @@
 /**
  * // CLASS: HumanPlayer
  * //
- * // Author: YYelizaveta Yashin, 7874435
+ * // Author: YYelizaveta Yashin
  * //
  * // REMARKS: This class implements Player interface and Human interface. It will process the Human player
  * //          and interact with the TextUI.
