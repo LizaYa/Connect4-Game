@@ -1,11 +1,6 @@
 /**
  * //-----------------------------------------
  * // NAME		: Yelizaveta Yashin
- * // STUDENT NUMBER	: 7874435
- * // COURSE		: COMP 2150
- * // INSTRUCTOR	: Michael Domaratzki
- * // ASSIGNMENT	: assignment #3
- * // QUESTION	: question #1
  * //
  * // REMARKS: The purpose of this program is to enable a user to play a game
  * //          of "Connect". The goal of this game is to get four of your pieces
@@ -18,7 +13,7 @@
  * //
  * //-----------------------------------------
  **/
-public class COMP2150A3LIZAYASHIN {
+public class Connect4 {
     public static void main(String[] args) {
         System.out.println("Start processing...");
         Game gameLogic = new Game();
