@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 // CLASS: GAME
 //
-// Author: YYelizaveta Yashin, 7874435
+// Author: YYelizaveta Yashin
 //
 // REMARKS: This class implements GameLogic.
 //
