@@ -2,7 +2,7 @@
 
 Connect 4 game that plays with a human player against the computer.
 
-I started creating this game as an assignment in one of my Computer Science major.
+I started creating this game as an assignment in one of my Computer Science courses.
 
 How to run the code:
 
