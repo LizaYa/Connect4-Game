@@ -10,3 +10,5 @@ How to run the code:
 2) Type 'javac Connect4.java" and press enter to compile the code.
 3) Type 'java Connect4.java' to run the program.
 3) Now start playing.
+
+this is an example - ignore
